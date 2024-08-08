@@ -13,3 +13,11 @@ This repository contains an implementation of the ConvNeXt Tiny model applied to
 The ConvNeXt architecture is designed to optimize both performance and efficiency, making it a strong candidate for image classification tasks like those found in CIFAR-10.
 
 Accuracy on validation 100% recorded could be find in attached png plot.
+
+## Installation
+
+To get started, clone this repository and run code_train:
+
+```bash
+git clone https://github.com/nguyenthuynga/ConvNeXtTiny-CIFAR10.git
+
